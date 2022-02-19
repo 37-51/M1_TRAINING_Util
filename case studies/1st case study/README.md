@@ -18,3 +18,5 @@ Repository to do an internship project on embedded systems
 |LR04|Automatic change in price of chocolate increases|Not Present|
 # Block Diagram
 ![Block Diagram of ACVM](./Block.jpg)
+# Application
+First a user inserts a coin for buying a chocolate like 1rs,5rs,10rs,20rs coins for corresponding chocolates.Each port in the block diagram directed to value of the coin with help of coin sorter.When the port recives a coin it generates an interrupt where it helps to send signal to corresponding read ports for reading the value of coin and there are also LCD,Keypad for message viewing and status of the machine.And there is a option for refund in any case there is a problem with the machine or completion of product and also there is an option for change we get if the cost is less than what we inserted.Here i also added buy 2 get 1 with help of another po
