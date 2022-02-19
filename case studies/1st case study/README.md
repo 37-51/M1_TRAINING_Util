@@ -1,13 +1,13 @@
 # M2_Project
-Repository to do an internship project which helps me for building my career.
+Repository to do an internship project on embedded systems
 ## High Level Requirements
 |ID|Descrption|Status|
 |--|----------|------|
-|HR01|User can make registrations after the verification is successful|Implemented|
-|HR01|User can make new registrations|Implemented|
-|HR03|User can move up or down,Up and down|Implemented|
-|HR02|Two step authentication|Not implemented|
-|HR03|Date of expiry for the vehicle registration|Not Implemented|
+|HR01|User can have chocolates as he wish|Present|
+|HR01|User can have return change when price is below inserted coin|Present|
+|HR03|User can have refundable amount when chocolates are finished |Present|
+|HR02|User can have extra chocolate when there is an offer|Present|
+|HR03|We can insert cash[notes]|Not Present|
 
 ## Low Level Requirements
 |ID|Description|Status|
