@@ -1,4 +1,4 @@
-# M2_Project
+# Requirements
 Repository to do an internship project on embedded systems
 ## High Level Requirements
 |ID|Descrption|Status|
@@ -12,6 +12,7 @@ Repository to do an internship project on embedded systems
 ## Low Level Requirements
 |ID|Description|Status|
 |--|-----------|------|
-|LR01|User can select required direction|Implemented|
-|LR02|Can able to add new vehicles|Implemented|
-|LR03|Can able to know whether the online registration can be done in that toll area|Not implemented|
+|LR01|User can insert 1rs,5rs,10rs,20rs coins respectively|Present|
+|LR02|Status for displaying(LCD)message|Present|
+|LR03|Bowl for collecting chocolates|Present|
+|LR04|Automatic change in price of chocolate increases|Not Present|
