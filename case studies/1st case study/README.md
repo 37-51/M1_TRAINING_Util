@@ -16,3 +16,4 @@ Repository to do an internship project on embedded systems
 |LR02|Status for displaying(LCD)message|Present|
 |LR03|Bowl for collecting chocolates|Present|
 |LR04|Automatic change in price of chocolate increases|Not Present|
+## Block Diagram
