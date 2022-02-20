@@ -26,3 +26,4 @@ LCD-It displays the message and status of the machine
 Port Deliver-It is a bowl where the user collects the chocolates
 Ports 1,5,10,20-For inserting coresponding coins
 Hardware components-micro controller 8051(for RAM nd ROM),RTOS code for scheduling tasks,coin sorter,chocolate channel,coin channel,USB Modem,LCD,Powersupply
+![Block Diagram of ACVM](./BD.jpg)
