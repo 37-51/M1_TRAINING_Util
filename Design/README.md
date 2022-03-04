@@ -1,2 +1,5 @@
-# M2_EmbSys
-Repository to do an internship project on embedded systems which helps me for building my career.
+## FLOW CHART Diagram
+![Flow chart ](./flowchartt.jpg)
+
+## BLOCK DIAGRAM
+![Block Diagram ](./Emb.jpg)
