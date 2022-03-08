@@ -1,2 +1,2 @@
 # Simulation
-![Flow chart ](./flowchartt.jpg)
+![simul](./s.jpg)
