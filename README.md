@@ -1,2 +1,1 @@
-# M2_EmbSys
-Repository to do an internship project on embedded systems which helps me for building my career.
+[![C/C++ CI](https://github.com/37-51/M2_EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/37-51/M2_EmbSys/actions/workflows/c-cpp.yml)
